@@ -1,4 +1,9 @@
-@import "reset.css";
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
 .header {
   height: 64px;
   display: flex;
